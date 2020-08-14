@@ -1,0 +1,40 @@
+2::mysqli::__construct(): (HY000/2002): No connection could be made because the target machine actively refused it.
+
+2::mysqli::__construct(): (HY000/2002): No connection could be made because the target machine actively refused it.
+
+2::mysqli::__construct(): (HY000/2002): No connection could be made because the target machine actively refused it.
+
+2::mysqli::__construct(): (HY000/2002): No connection could be made because the target machine actively refused it.
+
+2::array_slice() expects at least 2 parameters, 1 given
+2::array_slice() expects at least 2 parameters, 1 given
+2::array_slice() expects at least 2 parameters, 1 given
+2::array_slice() expects at least 2 parameters, 1 given
+2::array_slice() expects at least 2 parameters, 1 given
+8::Only variables should be passed by reference
+2::array_splice() expects at least 2 parameters, 1 given
+8::Only variables should be passed by reference
+2::array_splice() expects at least 2 parameters, 1 given
+2::array_slice() expects at least 2 parameters, 1 given
+8::Only variables should be passed by reference
+2::array_pop() expects parameter 1 to be array, null given
+2::array_slice() expects at least 2 parameters, 1 given
+8::Only variables should be passed by reference
+2::array_pop() expects parameter 1 to be array, null given
+2::array_slice() expects at least 2 parameters, 1 given
+8::Only variables should be passed by reference
+2::array_pop() expects parameter 1 to be array, null given
+2::array_slice() expects at least 2 parameters, 1 given
+8::Only variables should be passed by reference
+2::array_pop() expects parameter 1 to be array, null given
+2::array_values() expects parameter 1 to be array, int given
+2::array_values() expects parameter 1 to be array, int given
+2::array_values() expects parameter 1 to be array, int given
+2::array_values() expects parameter 1 to be array, int given
+2::max(): When only one parameter is given, it must be an array
+2::mysqli::__construct(): (HY000/2002): No connection could be made because the target machine actively refused it.
+
+2::array_values() expects parameter 1 to be array, int given
+2::max(): When only one parameter is given, it must be an array
+2::mysqli::__construct(): (HY000/2002): No connection could be made because the target machine actively refused it.
+
